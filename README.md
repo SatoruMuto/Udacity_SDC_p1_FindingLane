@@ -2,9 +2,15 @@
 Udacity_SelfDrivingCar_project1_FindingLane
 
 ## readme content
-1. a list of files contained in the repository with a brief description of each file
-2. any instructions someone might need for running code
+1. a list of files
+  readme.md  -- this file
+  ipython -- source code
+  writeup.md -- brief explanation of source code
+2. additional instructions
+  this source code is modification of this starter kit
+  ref : Udacity selfdriving car project
 3. an overview of project
+  first Udacity nanodigree selfdriving car project
 
 ## requirement
 1. rubic
